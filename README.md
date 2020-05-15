@@ -1,6 +1,7 @@
 ## Rewards and Recognition Documentation
 
 **Benefits For Managers/HRs** <br>
+
 Here are a few benefits you can expect by going onboard with Vantage Circle-
 <ol>
   <li>Increase engagement and employee productivity.</li>
