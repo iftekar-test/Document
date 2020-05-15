@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Rewards and Recognition Documentation
 
-You can use the [editor on GitHub](https://github.com/iftekar-test/document/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Benefits For Managers/HRs**
+Here are a few benefits you can expect by going onboard with Vantage Circle-
+<ol>
+  <li>Increase engagement and employee productivity.</li>
+  <li>A seamless experience of rewarding and recognizing employees</li>
+  <li>Gain insight and visibility on the high performers.</li>
+  <li>Make wishing employees an effortless experience.</li>
+  </ol>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
