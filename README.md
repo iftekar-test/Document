@@ -32,7 +32,7 @@ Getting all those benefits for a manager or HR is really simple and at a click o
 <li>CSV Rewards Upload</li>
 </ul>
 ### CONFIGURATION
-<ol>
+<ul>
   <li>Manage Badges</li>
 
 <li>Manage Awards</li>
@@ -48,6 +48,7 @@ Getting all those benefits for a manager or HR is really simple and at a click o
 <li>Manage Budget</li>
 
 <li>Assign uploader and approver</li>
+</ul>
 
 ### COMPANY
 <ul>
@@ -59,4 +60,5 @@ Getting all those benefits for a manager or HR is really simple and at a click o
 <li>Registration Report</li>
 
 <li>Manage roles and permissions</li>
+</ul>
 
