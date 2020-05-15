@@ -15,7 +15,7 @@ Here are a few benefits you can expect by going onboard with Vantage Circle-
 
 Getting all those benefits for a manager or HR is really simple and at a click of a button. Proper delegation of work is easier and employees recognize each other’s efforts. As a Super Admin, you can decide the level of authority you want your subordinates to have.
 
-### OVERVIEW
+## OVERVIEW
 
 This is the overview section of Vantage Rewards. Here you can see graphical representation of the rewards timeline, users rewarded, type of reward, department wise rewards, status, and city. 
 
@@ -38,14 +38,53 @@ On top of the charts/graphs, you are also displayed the data regarding the total
 
 **Rewards by City**- This pie chart shows you the number of awards according to the top cities to which the award is rewarded.
 
-### ANALYTICS
+## ANALYTICS
 
-<ul>
-  <li>Appreciation Dashboard</li>
+### Appreciation Dashboard
 
-<li>Budget Dashboard</li>
-</ul>
-### REPORTS
+Here you can see the data regarding the appreciation counts. The dashboard screen will display various demographics regarding the appreciation counts. 
+
+**Timeline**
+
+Here you can see the number of appreciation counts either monthly or weekly. The vertical axis denotes the number of appreciations and the horizontal axis denotes the period i.e. either month/week. 
+
+**Department Wise Appreciation Counts**
+
+Here you can see the appreciation counts according to the various departments present in your organization. 
+
+**Badge Wise Appreciation Counts**
+
+This dashboard gives appreciation counts according to the badges created in the “**Create Badge**” section. 
+
+
+### Budget Dashboard
+
+Here you can see the data regarding the budget allocated and purchased. 
+
+Here are a few sections you need to consider. 
+
+**Choose Country**- Select the country for which you want the data from the drop-down list. 
+
+**Choose Department**- You can also select the department for which you want the data from the drop-down list.
+
+**Points Purchased**- Here you can see the number of points purchased by your organization.
+
+**Points Allocated**- This shows the number of points allocated to various managers/departments. 
+
+**Points Utilized**- This shows the data regarding the number of points utilized by the users.
+
+**Remaining Points Available**- Here you are displayed the remaining number of points available.
+
+
+We also have two graphical analytics in this section. 
+
+**Budget Purchased**- This graph shows the monthly or weekly budget purchased by your organization.
+
+**Budget Allocated**- This graph shows the monthly or weekly budget allocated.
+
+
+
+## REPORTS
 <ul>
   <li>Rewards-Monetary</li>
 
@@ -53,7 +92,7 @@ On top of the charts/graphs, you are also displayed the data regarding the total
 
 <li>CSV Rewards Upload</li>
 </ul>
-### CONFIGURATION
+## CONFIGURATION
 <ul>
   <li>Manage Badges</li>
 
@@ -72,7 +111,7 @@ On top of the charts/graphs, you are also displayed the data regarding the total
 <li>Assign uploader and approver</li>
 </ul>
 
-### COMPANY
+## COMPANY
 <ul>
 
 <li>Manage employees</li>
