@@ -1,4 +1,7 @@
 ## Rewards and Recognition Documentation
+<div class="content_c">
+<div class="table_heading"><b>Table of Contents</b></div>
+
 <ul>
   <li><a href="#overview">Overview</a></li>
   
@@ -8,6 +11,7 @@
   
   <li><a href="#company">Company</a></li>
   </ul>
+  </div>
 **Benefits For Managers/HRs** <br>
 
 Here are a few benefits you can expect by going onboard with Vantage Circle-
