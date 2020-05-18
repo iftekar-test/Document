@@ -1,5 +1,10 @@
 ## Rewards and Recognition Documentation
-
+<ul>
+  <li><a href="#overview">Overview</a></li>
+  <li><a href="#analytics">Analytics</a></li>
+  <li><a href="#configuration">Configuration</a></li>
+  <li><a href="#company">Company</a></li>
+  </ul>
 **Benefits For Managers/HRs** <br>
 
 Here are a few benefits you can expect by going onboard with Vantage Circle-
